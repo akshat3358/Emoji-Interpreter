@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&display=swap");
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-size: 50px;
+}
+input {
+  border-radius: 2rem;
+  border-style: solid;
+  background-color: #d4d4d8;
+  border-color: #991b1b;
+}
+body {
+  background-color: #67e8f9;
+}
+.emojiPara {
+  display: inline;
+  font-size: 1.8rem;
+  margin: 1.7rem;
+  padding: 0.7rem;
+  line-height: 4.5rem;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: #1f1f1f;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fde047;
+  border-radius: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+}
